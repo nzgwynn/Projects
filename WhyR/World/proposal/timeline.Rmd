@@ -20,10 +20,10 @@ Covering the planning phase, this section should provide a relatively detailed p
 
 ## Technical delivery
 
-Weeks 6 - end: 
-
- * Members will be separated into groups to read and summarise material
- * Members may contact book authors or others for clarification if necessary
+* Sets of videos will be released periodlically as a "season"
+* Each season of the series will be contain about 10-12 videos.
+* The videos will be approximately 15 minutes long.
+* The videos will be recorded asynchronously (i.e. not livestreamed)
 
 <!--
 Covering the actual delivery of the project this section should provide at least a high-level the implementation. 
@@ -33,7 +33,8 @@ Including target dates is really important as you need to be committed and the I
 
 ## Other aspects
 
-We will use Twitter and LinkedIn to find new team members, and look carefully for historians that might be interested in guiding us through this process.
+We will use Twitter and LinkedIn to find new team members and post when a new season is complete.
+
 <!--
 Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.
 
